@@ -1,3 +1,6 @@
 # SI507-HW04-keunhou
 SI507 Homework4
-Daniel Uhm Romil Shah
+Daniel Uhm(keunhou) Romil Shah(roshah)
+Section 8 
+Github ID: samdol87, 
+
